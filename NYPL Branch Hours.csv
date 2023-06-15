@@ -1,0 +1,883 @@
+branch,day,hours,Open Time,Close Time,Hours Open
+125th Street Library,Monday,CLOSED,CLOSED,,0.0
+125th Street Library,Tuesday,CLOSED,CLOSED,,0.0
+125th Street Library,Wednesday,CLOSED,CLOSED,,0.0
+125th Street Library,Thursday,CLOSED,CLOSED,,0.0
+125th Street Library,Friday,CLOSED,CLOSED,,0.0
+125th Street Library,Saturday,CLOSED,CLOSED,,0.0
+125th Street Library,Sunday,CLOSED,CLOSED,,0.0
+53rd Street Library,Monday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+53rd Street Library,Tuesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+53rd Street Library,Wednesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+53rd Street Library,Thursday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+53rd Street Library,Friday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+53rd Street Library,Saturday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+53rd Street Library,Sunday,CLOSED,CLOSED,,0.0
+58th Street Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+58th Street Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+58th Street Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+58th Street Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+58th Street Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+58th Street Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+58th Street Library,Sunday,CLOSED,CLOSED,,0.0
+67th Street Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+67th Street Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+67th Street Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+67th Street Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+67th Street Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+67th Street Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+67th Street Library,Sunday,CLOSED,CLOSED,,0.0
+96th Street Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+96th Street Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+96th Street Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+96th Street Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+96th Street Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+96th Street Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+96th Street Library,Sunday,CLOSED,CLOSED,,0.0
+Aguilar Library,Monday,CLOSED,CLOSED,,0.0
+Aguilar Library,Tuesday,CLOSED,CLOSED,,0.0
+Aguilar Library,Wednesday,CLOSED,CLOSED,,0.0
+Aguilar Library,Thursday,CLOSED,CLOSED,,0.0
+Aguilar Library,Friday,CLOSED,CLOSED,,0.0
+Aguilar Library,Saturday,CLOSED,CLOSED,,0.0
+Aguilar Library,Sunday,CLOSED,CLOSED,,0.0
+Allerton Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Allerton Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Allerton Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Allerton Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Allerton Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Allerton Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Allerton Library,Sunday,CLOSED,CLOSED,,0.0
+Andrew Heiskell Braille and Talking Book Library,Monday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Andrew Heiskell Braille and Talking Book Library,Tuesday,12 PM - 7 PM,12:00 PM,7:00 PM,7.0
+Andrew Heiskell Braille and Talking Book Library,Wednesday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Andrew Heiskell Braille and Talking Book Library,Thursday,12 PM - 7 PM,12:00 PM,7:00 PM,7.0
+Andrew Heiskell Braille and Talking Book Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Andrew Heiskell Braille and Talking Book Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Andrew Heiskell Braille and Talking Book Library,Sunday,CLOSED,CLOSED,,0.0
+Art &amp; Architecture Collection,Monday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Art &amp; Architecture Collection,Tuesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+Art &amp; Architecture Collection,Wednesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+Art &amp; Architecture Collection,Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Art &amp; Architecture Collection,Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Art &amp; Architecture Collection,Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Art &amp; Architecture Collection,Sunday,1 PM - 4:45 PM,1:00 PM,4:45 PM,3.75
+Art and Artifacts Division,Monday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Art and Artifacts Division,Tuesday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Art and Artifacts Division,Wednesday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Art and Artifacts Division,Thursday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Art and Artifacts Division,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Art and Artifacts Division,Saturday,CLOSED,CLOSED,,0.0
+Art and Artifacts Division,Sunday,CLOSED,CLOSED,,0.0
+Battery Park City Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Battery Park City Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Battery Park City Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Battery Park City Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Battery Park City Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Battery Park City Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Battery Park City Library,Sunday,CLOSED,CLOSED,,0.0
+Baychester Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Baychester Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Baychester Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Baychester Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Baychester Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Baychester Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Baychester Library,Sunday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+Belmont Library and Enrico Fermi Cultural Center,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Belmont Library and Enrico Fermi Cultural Center,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Belmont Library and Enrico Fermi Cultural Center,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Belmont Library and Enrico Fermi Cultural Center,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Belmont Library and Enrico Fermi Cultural Center,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Belmont Library and Enrico Fermi Cultural Center,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Belmont Library and Enrico Fermi Cultural Center,Sunday,CLOSED,CLOSED,,0.0
+Billy Rose Theatre Division,Monday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+Billy Rose Theatre Division,Tuesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Billy Rose Theatre Division,Wednesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Billy Rose Theatre Division,Thursday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+Billy Rose Theatre Division,Friday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Billy Rose Theatre Division,Saturday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Billy Rose Theatre Division,Sunday,CLOSED,CLOSED,,0.0
+Bloomingdale Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Bloomingdale Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Bloomingdale Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Bloomingdale Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Bloomingdale Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Bloomingdale Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Bloomingdale Library,Sunday,CLOSED,CLOSED,,0.0
+Bronx Library Center,Monday,9 AM - 9 PM,9:00 AM,9:00 PM,12.0
+Bronx Library Center,Tuesday,9 AM - 9 PM,9:00 AM,9:00 PM,12.0
+Bronx Library Center,Wednesday,9 AM - 9 PM,9:00 AM,9:00 PM,12.0
+Bronx Library Center,Thursday,9 AM - 9 PM,9:00 AM,9:00 PM,12.0
+Bronx Library Center,Friday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Bronx Library Center,Saturday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Bronx Library Center,Sunday,12 PM - 6 PM,12:00 PM,6:00 PM,6.0
+Carl H. Pforzheimer Collection of Shelley and His Circle,Monday,CLOSED,CLOSED,,0.0
+Carl H. Pforzheimer Collection of Shelley and His Circle,Tuesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Carl H. Pforzheimer Collection of Shelley and His Circle,Wednesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Carl H. Pforzheimer Collection of Shelley and His Circle,Thursday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Carl H. Pforzheimer Collection of Shelley and His Circle,Friday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Carl H. Pforzheimer Collection of Shelley and His Circle,Saturday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Carl H. Pforzheimer Collection of Shelley and His Circle,Sunday,CLOSED,CLOSED,,0.0
+Castle Hill Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Castle Hill Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Castle Hill Library,Wednesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Castle Hill Library,Thursday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Castle Hill Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Castle Hill Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Castle Hill Library,Sunday,CLOSED,CLOSED,,0.0
+Center for Research in the Humanities,Monday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Center for Research in the Humanities,Tuesday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Center for Research in the Humanities,Wednesday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Center for Research in the Humanities,Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Center for Research in the Humanities,Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Center for Research in the Humanities,Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Center for Research in the Humanities,Sunday,CLOSED,CLOSED,,0.0
+Charleston Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Charleston Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Charleston Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Charleston Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Charleston Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Charleston Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Charleston Library,Sunday,CLOSED,CLOSED,,0.0
+Chatham Square Library,Monday,9 AM - 7 PM,9:00 AM,7:00 PM,10.0
+Chatham Square Library,Tuesday,9 AM - 7 PM,9:00 AM,7:00 PM,10.0
+Chatham Square Library,Wednesday,9 AM - 7 PM,9:00 AM,7:00 PM,10.0
+Chatham Square Library,Thursday,9 AM - 7 PM,9:00 AM,7:00 PM,10.0
+Chatham Square Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Chatham Square Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Chatham Square Library,Sunday,CLOSED,CLOSED,,0.0
+Children's Center,Monday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Children's Center,Tuesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Children's Center,Wednesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Children's Center,Thursday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Children's Center,Friday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Children's Center,Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Children's Center,Sunday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+City Island Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+City Island Library,Tuesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+City Island Library,Wednesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+City Island Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+City Island Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+City Island Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+City Island Library,Sunday,CLOSED,CLOSED,,0.0
+Clason's Point Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Clason's Point Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Clason's Point Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Clason's Point Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Clason's Point Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Clason's Point Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Clason's Point Library,Sunday,CLOSED,CLOSED,,0.0
+Columbus Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Columbus Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Columbus Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Columbus Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Columbus Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Columbus Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Columbus Library,Sunday,CLOSED,CLOSED,,0.0
+Countee Cullen Library,Monday,CLOSED,CLOSED,,0.0
+Countee Cullen Library,Tuesday,CLOSED,CLOSED,,0.0
+Countee Cullen Library,Wednesday,CLOSED,CLOSED,,0.0
+Countee Cullen Library,Thursday,CLOSED,CLOSED,,0.0
+Countee Cullen Library,Friday,CLOSED,CLOSED,,0.0
+Countee Cullen Library,Saturday,CLOSED,CLOSED,,0.0
+Countee Cullen Library,Sunday,CLOSED,CLOSED,,0.0
+DeWitt Wallace Periodical Room,Monday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+DeWitt Wallace Periodical Room,Tuesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+DeWitt Wallace Periodical Room,Wednesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+DeWitt Wallace Periodical Room,Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+DeWitt Wallace Periodical Room,Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+DeWitt Wallace Periodical Room,Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+DeWitt Wallace Periodical Room,Sunday,CLOSED,CLOSED,,0.0
+Dongan Hills Library,Monday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Dongan Hills Library,Tuesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Dongan Hills Library,Wednesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Dongan Hills Library,Thursday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Dongan Hills Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Dongan Hills Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Dongan Hills Library,Sunday,CLOSED,CLOSED,,0.0
+Dorot Jewish Division,Monday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Dorot Jewish Division,Tuesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+Dorot Jewish Division,Wednesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+Dorot Jewish Division,Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Dorot Jewish Division,Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Dorot Jewish Division,Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Dorot Jewish Division,Sunday,CLOSED,CLOSED,,0.0
+Eastchester Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Eastchester Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Eastchester Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Eastchester Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Eastchester Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Eastchester Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Eastchester Library,Sunday,CLOSED,CLOSED,,0.0
+Edenwald Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Edenwald Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Edenwald Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Edenwald Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Edenwald Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Edenwald Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Edenwald Library,Sunday,CLOSED,CLOSED,,0.0
+Epiphany Library,Monday,12 PM - 7 PM,12:00 PM,7:00 PM,7.0
+Epiphany Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Epiphany Library,Wednesday,12 PM - 7 PM,12:00 PM,7:00 PM,7.0
+Epiphany Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Epiphany Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Epiphany Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Epiphany Library,Sunday,CLOSED,CLOSED,,0.0
+Event Center &amp; Rooftop Terrace,Monday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Event Center &amp; Rooftop Terrace,Tuesday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Event Center &amp; Rooftop Terrace,Wednesday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Event Center &amp; Rooftop Terrace,Thursday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Event Center &amp; Rooftop Terrace,Friday,8 AM - 7 PM,8:00 AM,7:00 PM,11.0
+Event Center &amp; Rooftop Terrace,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Event Center &amp; Rooftop Terrace,Sunday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Fort Washington Library,Monday,CLOSED,CLOSED,,0.0
+Fort Washington Library,Tuesday,CLOSED,CLOSED,,0.0
+Fort Washington Library,Wednesday,CLOSED,CLOSED,,0.0
+Fort Washington Library,Thursday,CLOSED,CLOSED,,0.0
+Fort Washington Library,Friday,CLOSED,CLOSED,,0.0
+Fort Washington Library,Saturday,CLOSED,CLOSED,,0.0
+Fort Washington Library,Sunday,CLOSED,CLOSED,,0.0
+Francis Martin Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Francis Martin Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Francis Martin Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Francis Martin Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Francis Martin Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Francis Martin Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Francis Martin Library,Sunday,CLOSED,CLOSED,,0.0
+General Research Division,Monday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+General Research Division,Tuesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+General Research Division,Wednesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+General Research Division,Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+General Research Division,Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+General Research Division,Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+General Research Division,Sunday,1 PM - 4:45 PM,1:00 PM,4:45 PM,3.75
+George Arents Collection,Monday,CLOSED,CLOSED,,0.0
+George Arents Collection,Tuesday,12 PM - 5 PM,12:00 PM,5:00 PM,5.0
+George Arents Collection,Wednesday,12 PM - 5 PM,12:00 PM,5:00 PM,5.0
+George Arents Collection,Thursday,12 PM - 5 PM,12:00 PM,5:00 PM,5.0
+George Arents Collection,Friday,12 PM - 5 PM,12:00 PM,5:00 PM,5.0
+George Arents Collection,Saturday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+George Arents Collection,Sunday,CLOSED,CLOSED,,0.0
+George Bruce Library,Monday,12 PM - 7 PM,12:00 PM,7:00 PM,7.0
+George Bruce Library,Tuesday,12 PM - 7 PM,12:00 PM,7:00 PM,7.0
+George Bruce Library,Wednesday,12 PM - 7 PM,12:00 PM,7:00 PM,7.0
+George Bruce Library,Thursday,12 PM - 7 PM,12:00 PM,7:00 PM,7.0
+George Bruce Library,Friday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+George Bruce Library,Saturday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+George Bruce Library,Sunday,CLOSED,CLOSED,,0.0
+Grand Central Library,Monday,CLOSED,CLOSED,,0.0
+Grand Central Library,Tuesday,CLOSED,CLOSED,,0.0
+Grand Central Library,Wednesday,CLOSED,CLOSED,,0.0
+Grand Central Library,Thursday,CLOSED,CLOSED,,0.0
+Grand Central Library,Friday,CLOSED,CLOSED,,0.0
+Grand Central Library,Saturday,CLOSED,CLOSED,,0.0
+Grand Central Library,Sunday,CLOSED,CLOSED,,0.0
+Grand Concourse Library,Monday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Grand Concourse Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Grand Concourse Library,Wednesday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Grand Concourse Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Grand Concourse Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Grand Concourse Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Grand Concourse Library,Sunday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+Great Kills Library,Monday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Great Kills Library,Tuesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Great Kills Library,Wednesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Great Kills Library,Thursday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Great Kills Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Great Kills Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Great Kills Library,Sunday,CLOSED,CLOSED,,0.0
+Hamilton Fish Park Library,Monday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Hamilton Fish Park Library,Tuesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Hamilton Fish Park Library,Wednesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Hamilton Fish Park Library,Thursday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Hamilton Fish Park Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Hamilton Fish Park Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Hamilton Fish Park Library,Sunday,CLOSED,CLOSED,,0.0
+Hamilton Grange Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Hamilton Grange Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Hamilton Grange Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Hamilton Grange Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Hamilton Grange Library,Friday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Hamilton Grange Library,Saturday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Hamilton Grange Library,Sunday,CLOSED,CLOSED,,0.0
+Harlem Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Harlem Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Harlem Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Harlem Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Harlem Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Harlem Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Harlem Library,Sunday,CLOSED,CLOSED,,0.0
+Harry Belafonte 115th Street Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Harry Belafonte 115th Street Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Harry Belafonte 115th Street Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Harry Belafonte 115th Street Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Harry Belafonte 115th Street Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Harry Belafonte 115th Street Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Harry Belafonte 115th Street Library,Sunday,CLOSED,CLOSED,,0.0
+Henry W. and Albert A. Berg Collection of English and American Literature,Monday,CLOSED,CLOSED,,0.0
+Henry W. and Albert A. Berg Collection of English and American Literature,Tuesday,11 AM - 5:45 PM,11:00 AM,5:45 PM,6.75
+Henry W. and Albert A. Berg Collection of English and American Literature,Wednesday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Henry W. and Albert A. Berg Collection of English and American Literature,Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Henry W. and Albert A. Berg Collection of English and American Literature,Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Henry W. and Albert A. Berg Collection of English and American Literature,Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Henry W. and Albert A. Berg Collection of English and American Literature,Sunday,CLOSED,CLOSED,,0.0
+High Bridge Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+High Bridge Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+High Bridge Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+High Bridge Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+High Bridge Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+High Bridge Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+High Bridge Library,Sunday,CLOSED,CLOSED,,0.0
+Hudson Park Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Hudson Park Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Hudson Park Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Hudson Park Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Hudson Park Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Hudson Park Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Hudson Park Library,Sunday,CLOSED,CLOSED,,0.0
+Huguenot Park Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Huguenot Park Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Huguenot Park Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Huguenot Park Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Huguenot Park Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Huguenot Park Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Huguenot Park Library,Sunday,CLOSED,CLOSED,,0.0
+Hunts Point Library,Monday,CLOSED,CLOSED,,0.0
+Hunts Point Library,Tuesday,CLOSED,CLOSED,,0.0
+Hunts Point Library,Wednesday,CLOSED,CLOSED,,0.0
+Hunts Point Library,Thursday,CLOSED,CLOSED,,0.0
+Hunts Point Library,Friday,CLOSED,CLOSED,,0.0
+Hunts Point Library,Saturday,CLOSED,CLOSED,,0.0
+Hunts Point Library,Sunday,CLOSED,CLOSED,,0.0
+Inwood Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Inwood Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Inwood Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Inwood Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Inwood Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Inwood Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Inwood Library,Sunday,CLOSED,CLOSED,,0.0
+"Irma and Paul Milstein Division of United States History, Local History and Genealogy",Monday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"Irma and Paul Milstein Division of United States History, Local History and Genealogy",Tuesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+"Irma and Paul Milstein Division of United States History, Local History and Genealogy",Wednesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+"Irma and Paul Milstein Division of United States History, Local History and Genealogy",Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"Irma and Paul Milstein Division of United States History, Local History and Genealogy",Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"Irma and Paul Milstein Division of United States History, Local History and Genealogy",Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"Irma and Paul Milstein Division of United States History, Local History and Genealogy",Sunday,CLOSED,CLOSED,,0.0
+Jean Blackwell Hutson Research and Reference Division,Monday,CLOSED,CLOSED,,0.0
+Jean Blackwell Hutson Research and Reference Division,Tuesday,11 AM - 5:45 PM,11:00 AM,5:45 PM,6.75
+Jean Blackwell Hutson Research and Reference Division,Wednesday,11 AM - 5:45 PM,11:00 AM,5:45 PM,6.75
+Jean Blackwell Hutson Research and Reference Division,Thursday,11 AM - 5:45 PM,11:00 AM,5:45 PM,6.75
+Jean Blackwell Hutson Research and Reference Division,Friday,11 AM - 5:45 PM,11:00 AM,5:45 PM,6.75
+Jean Blackwell Hutson Research and Reference Division,Saturday,11 AM - 5:45 PM,11:00 AM,5:45 PM,6.75
+Jean Blackwell Hutson Research and Reference Division,Sunday,CLOSED,CLOSED,,0.0
+Jefferson Market Library,Monday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Jefferson Market Library,Tuesday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Jefferson Market Library,Wednesday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Jefferson Market Library,Thursday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Jefferson Market Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Jefferson Market Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Jefferson Market Library,Sunday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+Jerome Park Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Jerome Park Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Jerome Park Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Jerome Park Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Jerome Park Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Jerome Park Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Jerome Park Library,Sunday,CLOSED,CLOSED,,0.0
+Jerome Robbins Dance Division,Monday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+Jerome Robbins Dance Division,Tuesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Jerome Robbins Dance Division,Wednesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Jerome Robbins Dance Division,Thursday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+Jerome Robbins Dance Division,Friday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Jerome Robbins Dance Division,Saturday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Jerome Robbins Dance Division,Sunday,CLOSED,CLOSED,,0.0
+Kingsbridge Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Kingsbridge Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Kingsbridge Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Kingsbridge Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Kingsbridge Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Kingsbridge Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Kingsbridge Library,Sunday,CLOSED,CLOSED,,0.0
+Kips Bay Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Kips Bay Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Kips Bay Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Kips Bay Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Kips Bay Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Kips Bay Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Kips Bay Library,Sunday,CLOSED,CLOSED,,0.0
+Lionel Pincus and Princess Firyal Map Division,Monday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Lionel Pincus and Princess Firyal Map Division,Tuesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+Lionel Pincus and Princess Firyal Map Division,Wednesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+Lionel Pincus and Princess Firyal Map Division,Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Lionel Pincus and Princess Firyal Map Division,Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Lionel Pincus and Princess Firyal Map Division,Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Lionel Pincus and Princess Firyal Map Division,Sunday,CLOSED,CLOSED,,0.0
+Macomb's Bridge Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Macomb's Bridge Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Macomb's Bridge Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Macomb's Bridge Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Macomb's Bridge Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Macomb's Bridge Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Macomb's Bridge Library,Sunday,CLOSED,CLOSED,,0.0
+Manuscripts and Archives Division,Monday,CLOSED,CLOSED,,0.0
+Manuscripts and Archives Division,Tuesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Manuscripts and Archives Division,Wednesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Manuscripts and Archives Division,Thursday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Manuscripts and Archives Division,Friday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Manuscripts and Archives Division,Saturday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+Manuscripts and Archives Division,Sunday,CLOSED,CLOSED,,0.0
+"Manuscripts, Archives and Rare Books Division",Monday,CLOSED,CLOSED,,0.0
+"Manuscripts, Archives and Rare Books Division",Tuesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+"Manuscripts, Archives and Rare Books Division",Wednesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+"Manuscripts, Archives and Rare Books Division",Thursday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+"Manuscripts, Archives and Rare Books Division",Friday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+"Manuscripts, Archives and Rare Books Division",Saturday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+"Manuscripts, Archives and Rare Books Division",Sunday,CLOSED,CLOSED,,0.0
+Mariners Harbor Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mariners Harbor Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mariners Harbor Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mariners Harbor Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mariners Harbor Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Mariners Harbor Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Mariners Harbor Library,Sunday,CLOSED,CLOSED,,0.0
+Marron Family Circulating Collections,Monday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Marron Family Circulating Collections,Tuesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Marron Family Circulating Collections,Wednesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Marron Family Circulating Collections,Thursday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Marron Family Circulating Collections,Friday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Marron Family Circulating Collections,Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Marron Family Circulating Collections,Sunday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Melrose Library,Monday,CLOSED,CLOSED,,0.0
+Melrose Library,Tuesday,CLOSED,CLOSED,,0.0
+Melrose Library,Wednesday,CLOSED,CLOSED,,0.0
+Melrose Library,Thursday,CLOSED,CLOSED,,0.0
+Melrose Library,Friday,CLOSED,CLOSED,,0.0
+Melrose Library,Saturday,CLOSED,CLOSED,,0.0
+Melrose Library,Sunday,CLOSED,CLOSED,,0.0
+Morningside Heights Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Morningside Heights Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Morningside Heights Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Morningside Heights Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Morningside Heights Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Morningside Heights Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Morningside Heights Library,Sunday,CLOSED,CLOSED,,0.0
+Morris Park Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Morris Park Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Morris Park Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Morris Park Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Morris Park Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Morris Park Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Morris Park Library,Sunday,CLOSED,CLOSED,,0.0
+Morrisania Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Morrisania Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Morrisania Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Morrisania Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Morrisania Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Morrisania Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Morrisania Library,Sunday,CLOSED,CLOSED,,0.0
+Mosholu Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mosholu Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mosholu Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mosholu Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mosholu Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Mosholu Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Mosholu Library,Sunday,CLOSED,CLOSED,,0.0
+Mott Haven Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Mott Haven Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Mott Haven Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Mott Haven Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Mott Haven Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Mott Haven Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Mott Haven Library,Sunday,CLOSED,CLOSED,,0.0
+Moving Image and Recorded Sound Division,Monday,CLOSED,CLOSED,,0.0
+Moving Image and Recorded Sound Division,Tuesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Moving Image and Recorded Sound Division,Wednesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Moving Image and Recorded Sound Division,Thursday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Moving Image and Recorded Sound Division,Friday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Moving Image and Recorded Sound Division,Saturday,12 PM - 5 PM,12:00 PM,5:00 PM,5.0
+Moving Image and Recorded Sound Division,Sunday,CLOSED,CLOSED,,0.0
+Muhlenberg Library,Monday,CLOSED,CLOSED,,0.0
+Muhlenberg Library,Tuesday,CLOSED,CLOSED,,0.0
+Muhlenberg Library,Wednesday,CLOSED,CLOSED,,0.0
+Muhlenberg Library,Thursday,CLOSED,CLOSED,,0.0
+Muhlenberg Library,Friday,CLOSED,CLOSED,,0.0
+Muhlenberg Library,Saturday,CLOSED,CLOSED,,0.0
+Muhlenberg Library,Sunday,CLOSED,CLOSED,,0.0
+Mulberry Street Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mulberry Street Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Mulberry Street Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Mulberry Street Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Mulberry Street Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Mulberry Street Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Mulberry Street Library,Sunday,CLOSED,CLOSED,,0.0
+Music Division,Monday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+Music Division,Tuesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Music Division,Wednesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Music Division,Thursday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+Music Division,Friday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Music Division,Saturday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+Music Division,Sunday,CLOSED,CLOSED,,0.0
+New Amsterdam Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+New Amsterdam Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+New Amsterdam Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+New Amsterdam Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+New Amsterdam Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+New Amsterdam Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+New Amsterdam Library,Sunday,CLOSED,CLOSED,,0.0
+New Dorp Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+New Dorp Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+New Dorp Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+New Dorp Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+New Dorp Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+New Dorp Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+New Dorp Library,Sunday,CLOSED,CLOSED,,0.0
+Ottendorfer Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Ottendorfer Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Ottendorfer Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Ottendorfer Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Ottendorfer Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Ottendorfer Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Ottendorfer Library,Sunday,CLOSED,CLOSED,,0.0
+Parkchester Library,Monday,CLOSED,CLOSED,,0.0
+Parkchester Library,Tuesday,CLOSED,CLOSED,,0.0
+Parkchester Library,Wednesday,CLOSED,CLOSED,,0.0
+Parkchester Library,Thursday,CLOSED,CLOSED,,0.0
+Parkchester Library,Friday,CLOSED,CLOSED,,0.0
+Parkchester Library,Saturday,CLOSED,CLOSED,,0.0
+Parkchester Library,Sunday,CLOSED,CLOSED,,0.0
+Pasculano Learning Center,Monday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Pasculano Learning Center,Tuesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Pasculano Learning Center,Wednesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Pasculano Learning Center,Thursday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Pasculano Learning Center,Friday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Pasculano Learning Center,Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pasculano Learning Center,Sunday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Bay Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Bay Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Bay Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Bay Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Bay Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Pelham Bay Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Pelham Bay Library,Sunday,CLOSED,CLOSED,,0.0
+Pelham Parkway-Van Nest Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Parkway-Van Nest Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Parkway-Van Nest Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Parkway-Van Nest Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Parkway-Van Nest Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Pelham Parkway-Van Nest Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Pelham Parkway-Van Nest Library,Sunday,CLOSED,CLOSED,,0.0
+Photographs and Prints Division,Monday,CLOSED,CLOSED,,0.0
+Photographs and Prints Division,Tuesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Photographs and Prints Division,Wednesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Photographs and Prints Division,Thursday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Photographs and Prints Division,Friday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Photographs and Prints Division,Saturday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Photographs and Prints Division,Sunday,CLOSED,CLOSED,,0.0
+Photography Collection,Monday,CLOSED,CLOSED,,0.0
+Photography Collection,Tuesday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Photography Collection,Wednesday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Photography Collection,Thursday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Photography Collection,Friday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Photography Collection,Saturday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Photography Collection,Sunday,CLOSED,CLOSED,,0.0
+Picture Collection,Monday,CLOSED,CLOSED,,0.0
+Picture Collection,Tuesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+Picture Collection,Wednesday,10 AM - 7:45 PM,10:00 AM,7:45 PM,9.75
+Picture Collection,Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Picture Collection,Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Picture Collection,Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+Picture Collection,Sunday,CLOSED,CLOSED,,0.0
+Port Richmond Library,Monday,CLOSED,CLOSED,,0.0
+Port Richmond Library,Tuesday,CLOSED,CLOSED,,0.0
+Port Richmond Library,Wednesday,CLOSED,CLOSED,,0.0
+Port Richmond Library,Thursday,CLOSED,CLOSED,,0.0
+Port Richmond Library,Friday,CLOSED,CLOSED,,0.0
+Port Richmond Library,Saturday,CLOSED,CLOSED,,0.0
+Port Richmond Library,Sunday,CLOSED,CLOSED,,0.0
+Print Collection,Monday,CLOSED,CLOSED,,0.0
+Print Collection,Tuesday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Print Collection,Wednesday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Print Collection,Thursday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Print Collection,Friday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Print Collection,Saturday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Print Collection,Sunday,CLOSED,CLOSED,,0.0
+Rare Book Division,Monday,CLOSED,CLOSED,,0.0
+Rare Book Division,Tuesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Rare Book Division,Wednesday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Rare Book Division,Thursday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Rare Book Division,Friday,11 AM - 5 PM,11:00 AM,5:00 PM,6.0
+Rare Book Division,Saturday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+Rare Book Division,Sunday,CLOSED,CLOSED,,0.0
+Richmondtown Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Richmondtown Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Richmondtown Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Richmondtown Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Richmondtown Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Richmondtown Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Richmondtown Library,Sunday,CLOSED,CLOSED,,0.0
+Riverdale Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Riverdale Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Riverdale Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Riverdale Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Riverdale Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Riverdale Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Riverdale Library,Sunday,CLOSED,CLOSED,,0.0
+Riverside Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Riverside Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Riverside Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Riverside Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Riverside Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Riverside Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Riverside Library,Sunday,CLOSED,CLOSED,,0.0
+Roosevelt Island Library,Monday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Roosevelt Island Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Roosevelt Island Library,Wednesday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Roosevelt Island Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Roosevelt Island Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Roosevelt Island Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Roosevelt Island Library,Sunday,CLOSED,CLOSED,,0.0
+Schomburg Center for Research in Black Culture,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Schomburg Center for Research in Black Culture,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Schomburg Center for Research in Black Culture,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Schomburg Center for Research in Black Culture,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Schomburg Center for Research in Black Culture,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Schomburg Center for Research in Black Culture,Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Schomburg Center for Research in Black Culture,Sunday,CLOSED,CLOSED,,0.0
+Sedgwick Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Sedgwick Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Sedgwick Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Sedgwick Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Sedgwick Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Sedgwick Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Sedgwick Library,Sunday,CLOSED,CLOSED,,0.0
+Seward Park Library,Monday,CLOSED,CLOSED,,0.0
+Seward Park Library,Tuesday,CLOSED,CLOSED,,0.0
+Seward Park Library,Wednesday,CLOSED,CLOSED,,0.0
+Seward Park Library,Thursday,CLOSED,CLOSED,,0.0
+Seward Park Library,Friday,CLOSED,CLOSED,,0.0
+Seward Park Library,Saturday,CLOSED,CLOSED,,0.0
+Seward Park Library,Sunday,CLOSED,CLOSED,,0.0
+Soundview Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Soundview Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Soundview Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Soundview Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Soundview Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Soundview Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Soundview Library,Sunday,CLOSED,CLOSED,,0.0
+South Beach Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+South Beach Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+South Beach Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+South Beach Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+South Beach Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+South Beach Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+South Beach Library,Sunday,CLOSED,CLOSED,,0.0
+Spencer Collection,Monday,CLOSED,CLOSED,,0.0
+Spencer Collection,Tuesday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Spencer Collection,Wednesday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Spencer Collection,Thursday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Spencer Collection,Friday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Spencer Collection,Saturday,1 PM - 5:45 PM,1:00 PM,5:45 PM,4.75
+Spencer Collection,Sunday,CLOSED,CLOSED,,0.0
+Spuyten Duyvil Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Spuyten Duyvil Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Spuyten Duyvil Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Spuyten Duyvil Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Spuyten Duyvil Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Spuyten Duyvil Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Spuyten Duyvil Library,Sunday,CLOSED,CLOSED,,0.0
+St. Agnes Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+St. Agnes Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+St. Agnes Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+St. Agnes Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+St. Agnes Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+St. Agnes Library,Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+St. Agnes Library,Sunday,CLOSED,CLOSED,,0.0
+St. George Library Center,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+St. George Library Center,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+St. George Library Center,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+St. George Library Center,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+St. George Library Center,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+St. George Library Center,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+St. George Library Center,Sunday,CLOSED,CLOSED,,0.0
+Stapleton Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Stapleton Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Stapleton Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Stapleton Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Stapleton Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Stapleton Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Stapleton Library,Sunday,CLOSED,CLOSED,,0.0
+Stavros Niarchos Foundation Library (SNFL),Monday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Stavros Niarchos Foundation Library (SNFL),Tuesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Stavros Niarchos Foundation Library (SNFL),Wednesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Stavros Niarchos Foundation Library (SNFL),Thursday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Stavros Niarchos Foundation Library (SNFL),Friday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Stavros Niarchos Foundation Library (SNFL),Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Stavros Niarchos Foundation Library (SNFL),Sunday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Stephen A. Schwarzman Building,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Stephen A. Schwarzman Building,Tuesday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Stephen A. Schwarzman Building,Wednesday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Stephen A. Schwarzman Building,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Stephen A. Schwarzman Building,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Stephen A. Schwarzman Building,Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Stephen A. Schwarzman Building,Sunday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+Teen Center,Monday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Teen Center,Tuesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Teen Center,Wednesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Teen Center,Thursday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Teen Center,Friday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Teen Center,Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Teen Center,Sunday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Terence Cardinal Cooke-Cathedral Library,Monday,CLOSED,CLOSED,,0.0
+Terence Cardinal Cooke-Cathedral Library,Tuesday,CLOSED,CLOSED,,0.0
+Terence Cardinal Cooke-Cathedral Library,Wednesday,CLOSED,CLOSED,,0.0
+Terence Cardinal Cooke-Cathedral Library,Thursday,CLOSED,CLOSED,,0.0
+Terence Cardinal Cooke-Cathedral Library,Friday,CLOSED,CLOSED,,0.0
+Terence Cardinal Cooke-Cathedral Library,Saturday,CLOSED,CLOSED,,0.0
+Terence Cardinal Cooke-Cathedral Library,Sunday,CLOSED,CLOSED,,0.0
+"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",Monday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",Tuesday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",Wednesday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",Thursday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",Friday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",Saturday,10 AM - 5:45 PM,10:00 AM,5:45 PM,7.75
+"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",Sunday,CLOSED,CLOSED,,0.0
+The New York Public Library for the Performing Arts,Monday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+The New York Public Library for the Performing Arts,Tuesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+The New York Public Library for the Performing Arts,Wednesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+The New York Public Library for the Performing Arts,Thursday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+The New York Public Library for the Performing Arts,Friday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+The New York Public Library for the Performing Arts,Saturday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+The New York Public Library for the Performing Arts,Sunday,CLOSED,CLOSED,,0.0
+The Rodgers and Hammerstein Archives of Recorded Sound,Monday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+The Rodgers and Hammerstein Archives of Recorded Sound,Tuesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+The Rodgers and Hammerstein Archives of Recorded Sound,Wednesday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+The Rodgers and Hammerstein Archives of Recorded Sound,Thursday,10:30 AM - 8 PM,10:30 AM,8:00 PM,9.5
+The Rodgers and Hammerstein Archives of Recorded Sound,Friday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+The Rodgers and Hammerstein Archives of Recorded Sound,Saturday,10:30 AM - 6 PM,10:30 AM,6:00 PM,7.5
+The Rodgers and Hammerstein Archives of Recorded Sound,Sunday,CLOSED,CLOSED,,0.0
+Theatre on Film and Tape Archive,Monday,12 PM - 8 PM,12:00 PM,8:00 PM,8.0
+Theatre on Film and Tape Archive,Tuesday,12 PM - 6 PM,12:00 PM,6:00 PM,6.0
+Theatre on Film and Tape Archive,Wednesday,12 PM - 6 PM,12:00 PM,6:00 PM,6.0
+Theatre on Film and Tape Archive,Thursday,12 PM - 8 PM,12:00 PM,8:00 PM,8.0
+Theatre on Film and Tape Archive,Friday,12 PM - 6 PM,12:00 PM,6:00 PM,6.0
+Theatre on Film and Tape Archive,Saturday,12 PM - 6 PM,12:00 PM,6:00 PM,6.0
+Theatre on Film and Tape Archive,Sunday,CLOSED,CLOSED,,0.0
+Thomas Yoseloff Business Center,Monday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Thomas Yoseloff Business Center,Tuesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Thomas Yoseloff Business Center,Wednesday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Thomas Yoseloff Business Center,Thursday,8 AM - 9 PM,8:00 AM,9:00 PM,13.0
+Thomas Yoseloff Business Center,Friday,8 AM - 8 PM,8:00 AM,8:00 PM,12.0
+Thomas Yoseloff Business Center,Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Thomas Yoseloff Business Center,Sunday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Throg's Neck Library,Monday,CLOSED,CLOSED,,0.0
+Throg's Neck Library,Tuesday,CLOSED,CLOSED,,0.0
+Throg's Neck Library,Wednesday,CLOSED,CLOSED,,0.0
+Throg's Neck Library,Thursday,CLOSED,CLOSED,,0.0
+Throg's Neck Library,Friday,CLOSED,CLOSED,,0.0
+Throg's Neck Library,Saturday,CLOSED,CLOSED,,0.0
+Throg's Neck Library,Sunday,CLOSED,CLOSED,,0.0
+Todt Hill-Westerleigh Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Todt Hill-Westerleigh Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Todt Hill-Westerleigh Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Todt Hill-Westerleigh Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Todt Hill-Westerleigh Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Todt Hill-Westerleigh Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Todt Hill-Westerleigh Library,Sunday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+Tompkins Square Library,Monday,CLOSED,CLOSED,,0.0
+Tompkins Square Library,Tuesday,CLOSED,CLOSED,,0.0
+Tompkins Square Library,Wednesday,CLOSED,CLOSED,,0.0
+Tompkins Square Library,Thursday,CLOSED,CLOSED,,0.0
+Tompkins Square Library,Friday,CLOSED,CLOSED,,0.0
+Tompkins Square Library,Saturday,CLOSED,CLOSED,,0.0
+Tompkins Square Library,Sunday,CLOSED,CLOSED,,0.0
+Tottenville Library,Monday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Tottenville Library,Tuesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Tottenville Library,Wednesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Tottenville Library,Thursday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+Tottenville Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Tottenville Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Tottenville Library,Sunday,CLOSED,CLOSED,,0.0
+Tremont Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Tremont Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Tremont Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Tremont Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Tremont Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Tremont Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Tremont Library,Sunday,CLOSED,CLOSED,,0.0
+"Van Cortlandt Library, Arline Schwarzman Building",Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+"Van Cortlandt Library, Arline Schwarzman Building",Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+"Van Cortlandt Library, Arline Schwarzman Building",Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+"Van Cortlandt Library, Arline Schwarzman Building",Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+"Van Cortlandt Library, Arline Schwarzman Building",Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+"Van Cortlandt Library, Arline Schwarzman Building",Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+"Van Cortlandt Library, Arline Schwarzman Building",Sunday,CLOSED,CLOSED,,0.0
+Visitor Center,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Visitor Center,Tuesday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Visitor Center,Wednesday,10 AM - 8 PM,10:00 AM,8:00 PM,10.0
+Visitor Center,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Visitor Center,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Visitor Center,Saturday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Visitor Center,Sunday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+Wakefield Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Wakefield Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Wakefield Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Wakefield Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Wakefield Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Wakefield Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Wakefield Library,Sunday,CLOSED,CLOSED,,0.0
+Washington Heights Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Washington Heights Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Washington Heights Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Washington Heights Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Washington Heights Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Washington Heights Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Washington Heights Library,Sunday,1 PM - 5 PM,1:00 PM,5:00 PM,4.0
+Webster Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Webster Library,Tuesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Webster Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Webster Library,Thursday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Webster Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Webster Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Webster Library,Sunday,CLOSED,CLOSED,,0.0
+West Farms Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+West Farms Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+West Farms Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+West Farms Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+West Farms Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+West Farms Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+West Farms Library,Sunday,CLOSED,CLOSED,,0.0
+West New Brighton Library,Monday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+West New Brighton Library,Tuesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+West New Brighton Library,Wednesday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+West New Brighton Library,Thursday,11 AM - 6 PM,11:00 AM,6:00 PM,7.0
+West New Brighton Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+West New Brighton Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+West New Brighton Library,Sunday,CLOSED,CLOSED,,0.0
+Westchester Square Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Westchester Square Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Westchester Square Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Westchester Square Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Westchester Square Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Westchester Square Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Westchester Square Library,Sunday,CLOSED,CLOSED,,0.0
+Woodlawn Heights Library,Monday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Woodlawn Heights Library,Tuesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Woodlawn Heights Library,Wednesday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Woodlawn Heights Library,Thursday,10 AM - 7 PM,10:00 AM,7:00 PM,9.0
+Woodlawn Heights Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Woodlawn Heights Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Woodlawn Heights Library,Sunday,CLOSED,CLOSED,,0.0
+Woodstock Library,Monday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Woodstock Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Woodstock Library,Wednesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Woodstock Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Woodstock Library,Friday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Woodstock Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Woodstock Library,Sunday,CLOSED,CLOSED,,0.0
+Yorkville Library,Monday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Yorkville Library,Tuesday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Yorkville Library,Wednesday,11 AM - 7 PM,11:00 AM,7:00 PM,8.0
+Yorkville Library,Thursday,10 AM - 6 PM,10:00 AM,6:00 PM,8.0
+Yorkville Library,Friday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Yorkville Library,Saturday,10 AM - 5 PM,10:00 AM,5:00 PM,7.0
+Yorkville Library,Sunday,CLOSED,CLOSED,,0.0
